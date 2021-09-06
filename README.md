@@ -2,7 +2,7 @@
 - 👩🏾‍💻 I'm a data science analyst for Discover
 - 🍥 I'm an otaku who loves data and creating interesting projects using python
 - 🌱 I’m currently learning Javascript
-- 📨 You can reach me via email: cu46694@uga.edu
+- 📨 You can reach me via email: cynthia@cynscode.com
 
 <!---
 cynthiiaa/cynthiiaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
