@@ -2,6 +2,7 @@
 - 👩🏾‍💻 I'm a data science analyst for Discover
 - 🍥 I'm an otaku who loves data and creating interesting projects using python
 - 🌱 I’m currently learning Javascript
+- ✨ Check out my blog @ cynscode.com
 - 📨 You can reach me via email: cynthia@cynscode.com
 
 <!---
