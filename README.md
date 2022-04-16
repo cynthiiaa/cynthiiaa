@@ -1,7 +1,6 @@
 - 👋🏾 Hi, I’m @cynthiiaa
-- 👩🏾‍💻 I'm a data science analyst for Discover
-- 🍥 I'm an otaku who loves data and creating interesting projects using python
-- 🌱 I’m currently learning Javascript
+- 👩🏾‍💻 I'm a data analytics engineer for Arity
+- 🌱 I’m currently learning Scala and OpenCV
 - ✨ Check out my blog @ [cynscode.com](https://cynscode.com)
 - 📨 You can reach me via email: cynthia@cynscode.com
 
