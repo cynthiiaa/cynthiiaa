@@ -1,6 +1,5 @@
 - 👋🏾 Hi, I’m @cynthiiaa
 - 👩🏾‍💻 I'm a data analytics engineer for Arity
-- 🌱 I’m currently learning Scala
 - ✨ Check out my blog @ [cynscode.com](https://cynscode.com)
 - 📨 You can reach me via email: cynthia@cynscode.com
 
