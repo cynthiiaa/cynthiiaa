@@ -1,5 +1,5 @@
 - 👋🏾 Hi, I’m @cynthiiaa
-- 👩🏾‍💻 I'm a data analytics engineer for Arity
+- 👩🏾‍💻 I'm a backend software engineer and I'm barely commit code to this account!
 - ✨ Check out my blog @ [cynscode.com](https://cynscode.com)
 - 📨 You can reach me via email: cynthia@cynscode.com
 
