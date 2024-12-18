@@ -1,5 +1,5 @@
 - 👋🏾 Hi, I’m @cynthiiaa
-- 👩🏾‍💻 I'm a backend software engineer and I barely commit code to this account!
+- 👩🏾‍💻 I'm a backend software engineer and I barely commit code on this account!
 - ✨ Check out my blog @ [cynscode.com](https://cynscode.com)
 - 📨 You can reach me via email: cynthia@cynscode.com
 
